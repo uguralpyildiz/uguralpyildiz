@@ -9,10 +9,10 @@
 
 - HTML
 - CSS
-  - BOOTSTRAP
-  - SASS
+  - !BOOTSTRAP
+  - !SASS
 - JAVASCRIPT
-  - REACT.JS 
+  - !REACT.JS 
   - SWIPER.JS
 
 
