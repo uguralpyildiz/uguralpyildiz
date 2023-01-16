@@ -1,19 +1,22 @@
-<h2 align="left">Hi I'm Ugur Alp Yildiz</h2>
+> <h2 align="left">Hi I'm Ugur Alp Yildiz</h2>
 
 - I’m currently learning **React.js**
 - All of my projects are available at <a href="https://uguralpyildiz.com">uguralpyildiz.com</a>
 - How to reach me **uguryildizdev@gmail.com**
 - My Codepen Profile <a href="https://codepen.io/nvite8008">Link</a>
 
-<h4 align="left">Languages</h4>
+> <h2 align="left">My interests</h2>
 
-- HTML
-- CSS
-  - BOOTSTRAP
-  - TAILWINDCSS
-  - SASS
-- JAVASCRIPT
+> HTML<br>
+ 
+> CSS
+  - Bootstrap
+  - TailwindCSS
+  - Sass
+  - Animate.css
+> JavaScript
+  - TypeScript
   - REACT.JS 
-  - SWIPER.JS
+  - Swiper.js
 
 
