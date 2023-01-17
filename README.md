@@ -17,7 +17,7 @@
   - Animate.css
 > JavaScript
   - TypeScript
-  - REACT.JS 
+  - React.js 
   - Swiper.js
 
 
